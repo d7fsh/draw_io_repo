@@ -34,7 +34,7 @@
         <mxCell id="j6XAS2CCTATsVqlP8x6V-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j6XAS2CCTATsVqlP8x6V-14" target="j6XAS2CCTATsVqlP8x6V-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j6XAS2CCTATsVqlP8x6V-14" value="data-service-api&lt;div&gt;botech-gateway&lt;/div&gt;&lt;div&gt;botech-auth&lt;/div&gt;&lt;div&gt;botech-system&lt;/div&gt;&lt;div&gt;shibei-data-lake&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j6XAS2CCTATsVqlP8x6V-14" value="&lt;span style=&quot;background-color: initial;&quot;&gt;botech-gateway&lt;/span&gt;&lt;div&gt;botech-auth&lt;/div&gt;&lt;div&gt;botech-system&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="466.6" y="290" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j6XAS2CCTATsVqlP8x6V-11" value="Datart" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.web_ui;" vertex="1" parent="1">
